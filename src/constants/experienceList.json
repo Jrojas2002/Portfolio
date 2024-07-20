@@ -1,0 +1,36 @@
+[
+  {
+    "company": "Frontend Simplified",
+    "role": "Frontend Developer Intern",
+    "resps": [
+      "React-based Single Page Application: A sophisticated web platform built using React, leveraging the power of component-based architecture.",
+      "NFT Marketplace Functionality: Comprehensive features for displaying, managing, and interacting with NFT collections and items.",
+      "Advanced Styling System: Intricate custom CSS with multiple color schemes, gradient options, and a dark mode toggle for user preference.",
+      "Responsive Design: Carefully crafted layouts that adapt seamlessly to various screen sizes and devices.",
+      "Interactive UI Components: Rich set of user interface elements including carousels, accordions, custom buttons, and animated transitions.",
+      "External Library Integration: Thoughtful incorporation of Bootstrap and jQuery to enhance functionality and design capabilities.",
+      "Asset Management: Curated selection of images from reputable sources like Freepik, Giphy, and Pexels, properly credited.",
+      "Development Tooling: Robust set of npm scripts for efficient development, testing, and production build processes.",
+      "Performance Optimization: Strategic implementation of CSS transitions and build optimizations for a smooth user experience.",
+      "Accessibility Considerations: Core design and structure that takes into account web accessibility standards and best practices."
+    ],
+    "date": "May 2024 - June 2024"
+  },
+  {
+    "company": "Airbnb Clone",
+    "role": "",
+    "resps": [
+      "Next.js 14 Implementation: Utilizing the latest version of Next.js for cutting-edge React-based web development.",
+      "Prisma ORM with PostgreSQL: Robust database management using Prisma client and PostgreSQL for efficient data handling.",
+      "Kinde Authentication: Implementing secure user authentication with @kinde-oss/kinde-auth-nextjs. This system allows for secure user sign-up, login, and session management.",
+      "Supabase Integration: Leveraging Supabase for additional backend functionality, particularly for image storage.",
+      "Interactive Mapping: Incorporation of Leaflet and react-leaflet for dynamic and interactive map features.",
+      "Advanced UI Components: Usage of Radix UI components for creating a polished and accessible user interface.",
+      "Tailwind CSS Styling: Employing Tailwind CSS for efficient and responsive design implementation.",
+      "TypeScript Integration: Enhancing code quality and developer experience with TypeScript throughout the project.",
+      "Comprehensive Home Listing System: Detailed property listings with features like favorites, categories, and search functionality.",
+      "Server-Side Rendering: Leveraging Next.js's SSR capabilities for improved performance and SEO optimization."
+    ],
+    "date": "June 2024 - July 2024"
+  }
+]
