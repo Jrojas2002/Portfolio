@@ -72,7 +72,7 @@ export default function Resume() {
                 <a href="https://www.linkedin.com/in/jayson-rojas-a99063313/" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="https://drive.google.com/file/d/1YBzxk4vfKd6RtSk6BP3cHl8bq0g3zMSV/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1QzemVR6jP1KmB-LubXunEIY1QOU8u6s_/view?usp=sharing" target="_blank">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>

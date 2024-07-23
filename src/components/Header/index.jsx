@@ -80,7 +80,7 @@ export default function Header() {
             </ScrambleText>
           </a>
           <span className="header--hash">{"//"}</span>
-          <a href="https://drive.google.com/file/d/1YBzxk4vfKd6RtSk6BP3cHl8bq0g3zMSV/view?usp=sharing" target={"_blank"} rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1QzemVR6jP1KmB-LubXunEIY1QOU8u6s_/view?usp=sharing" target={"_blank"} rel="noopener noreferrer">
             <ScrambleText shuffle delay={1.5}>
               RESUME
             </ScrambleText>
