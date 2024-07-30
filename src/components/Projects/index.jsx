@@ -10,6 +10,8 @@ import { useInView } from "react-intersection-observer"
 import work1 from "../../assets/Images/ultraverse.png"
 import work2 from "../../assets/Images/airbnb.png"
 import work3 from "../../assets/Images/twitter.png"
+import work4 from "../../assets/Images/work4.png"
+
 
 export default function Projects() {
   const controls = useAnimation()
@@ -52,6 +54,14 @@ export default function Projects() {
       detail: "Developed a fully functional Twitter clone using React, Next.js, Redux, and Firebase, providing a secure, real-time, and responsive social media platform. Implementing secure user authentication, real-time tweet updates, and an intuitive, mobile-friendly interface.",
       link: "https://twitter-clone-lovat-zeta.vercel.app/"
     },
+    {
+      client: "Personal Project",
+      year: "2024",
+      img: work4,
+      title: "Netflix Clone",
+      detail: "This Netflix Clone built with React, Vite, and Firebase, showcases my skills in React (state management, routing, component architecture) and Firebase (authentication, database, hosting). Users can browse movies and create accounts, ensuring a seamless",
+      link: "https://netflix-clone-kohl-ten-10.vercel.app/"
+    }
   ]
 
   const opacityVariant = {
